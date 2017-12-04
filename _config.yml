@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: Barcampy v ČR
+description: Seznam otevřených konferencí v ČR
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-modernist
